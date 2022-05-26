@@ -1,0 +1,11 @@
+//.........................Products list ...................
+
+export const FETCH_USERSLIST_REQUEST = "FETCH_USERSLIST_REQUEST";
+export const FETCH_USERSLIST_SUCCEESS = "FETCH_USERSLIST_SUCCEESS";
+export const FETCH_USERSLIST_FAILURE = "FETCH_USERSLIST_FAILURE";
+
+//......................Delete Products..............
+
+export const FETCH_USERSDELETE_REQUEST = "FETCH_USERSDELETE_REQUEST";
+export const FETCH_USERSDELETE_SUCCEESS = "FETCH_USERSDELETE_SUCCEESS";
+export const FETCH_USERSDELETE_FAILURE = "FETCH_USERSDELETE_FAILURE";
